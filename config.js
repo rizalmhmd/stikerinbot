@@ -33,7 +33,7 @@ global.APIKeys = { // APIKey nya disini
 global.packname = 'Rizal'
 global.author = 'Gans'
 
-global.wm = '© ariffb & melcanz'
+global.wm = '© ROZZ BOT'
 global.wait = '_*tunggu sedang diproses...*_'
 global.eror = '_*Server Error*_'
 global.benar = '✅'
